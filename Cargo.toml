@@ -3,7 +3,11 @@ name = "webproto"
 version = "0.1.0"
 edition = "2021"
 authors = ["asbezier <asbezier@outlook.com>"]
-publish = false
+
+publish = true
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/OpenBezier/webproto"
+description = "webproto"
 
 [dependencies]
 anyhow = "1.0.72"
